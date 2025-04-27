@@ -1,4 +1,4 @@
-# Cricket-Schore_sheet
+# Cricket-Score_sheet
 Records and calculates cricket match statistics
 Tracks batsmen's runs, balls, boundaries, and strike rates
 Monitors bowlers' overs, runs, wickets, and economy rates
